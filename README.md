@@ -41,8 +41,3 @@ DermaAssist-AI/
 │
 ├── notebooks/
 │   ├── DermaAssist_Kaggle_Notebook.ipynb
-│
-└── docs/
-    ├── architecture.png
-    ├── workflow.png
-    ├── DermaAssist_Documentation.pdf   (later we will export)
